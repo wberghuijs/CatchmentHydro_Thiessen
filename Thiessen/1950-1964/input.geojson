@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Nordhorn" }, "geometry": { "type": "Point", "coordinates": [ 587.047513645716776, -11.46992270333487 ] } },
+{ "type": "Feature", "properties": { "Id": 1, "Name": "Denekamp" }, "geometry": { "type": "Point", "coordinates": [ 453.8996567208427, -343.833911367143969 ] } },
+{ "type": "Feature", "properties": { "Id": 2, "Name": "Bad Bentheim" }, "geometry": { "type": "Point", "coordinates": [ 739.438888360692658, -665.876165232029962 ] } },
+{ "type": "Feature", "properties": { "Id": 3, "Name": "Twenthe" }, "geometry": { "type": "Point", "coordinates": [ 59.207023022652322, -908.622661698002275 ] } },
+{ "type": "Feature", "properties": { "Id": 4, "Name": "Enschede" }, "geometry": { "type": "Point", "coordinates": [ 11.576730489867861, -1044.943843774592324 ] } },
+{ "type": "Feature", "properties": { "Id": 7, "Name": "Ahaus" }, "geometry": { "type": "Point", "coordinates": [ 175.695979255245845, -1728.510191117020895 ] } },
+{ "type": "Feature", "properties": { "Id": 9, "Name": "Coesveld" }, "geometry": { "type": "Point", "coordinates": [ 830.989186090851263, -2307.48720919814059 ] } },
+{ "type": "Feature", "properties": { "Id": 10, "Name": "Gronau" }, "geometry": { "type": "Point", "coordinates": [ 444.707855157684946, -1102.802481551444316 ] } },
+{ "type": "Feature", "properties": { "Id": 999, "Name": "artificial" }, "geometry": { "type": "Point", "coordinates": [ 2050.088532073255919, 82.258977667710667 ] } }
+]
+}
